@@ -1,2 +1,5 @@
-# MULTIBRANCH12
-A Simple multi branch pipeline project
+# Banking Project
+## Dev1 should contribute everything to dev1 branch
+## Dev2 should contribute everything to dev2 branch
+## Dev3 should contribute everything to dev3 branch
+## Dev4 should contribute evrything to dev4 branch 
